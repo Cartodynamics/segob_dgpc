@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://cartodynamics.github.io/segob_dgpc/static/css/main.ed2645de.css",
-    "main.js": "https://cartodynamics.github.io/segob_dgpc/static/js/main.b8a04f50.js",
-    "static/js/453.37feef3a.chunk.js": "https://cartodynamics.github.io/segob_dgpc/static/js/453.37feef3a.chunk.js",
-    "index.html": "https://cartodynamics.github.io/segob_dgpc/index.html",
-    "main.ed2645de.css.map": "https://cartodynamics.github.io/segob_dgpc/static/css/main.ed2645de.css.map",
-    "main.b8a04f50.js.map": "https://cartodynamics.github.io/segob_dgpc/static/js/main.b8a04f50.js.map",
-    "453.37feef3a.chunk.js.map": "https://cartodynamics.github.io/segob_dgpc/static/js/453.37feef3a.chunk.js.map"
+    "main.css": "/tab-lluvias-hidalgo/static/css/main.ed2645de.css",
+    "main.js": "/tab-lluvias-hidalgo/static/js/main.ca4d287c.js",
+    "static/js/453.37feef3a.chunk.js": "/tab-lluvias-hidalgo/static/js/453.37feef3a.chunk.js",
+    "index.html": "/tab-lluvias-hidalgo/index.html",
+    "main.ed2645de.css.map": "/tab-lluvias-hidalgo/static/css/main.ed2645de.css.map",
+    "main.ca4d287c.js.map": "/tab-lluvias-hidalgo/static/js/main.ca4d287c.js.map",
+    "453.37feef3a.chunk.js.map": "/tab-lluvias-hidalgo/static/js/453.37feef3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed2645de.css",
-    "static/js/main.b8a04f50.js"
+    "static/js/main.ca4d287c.js"
   ]
 }
