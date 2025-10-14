@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/tab-lluvias-hidalgo/static/css/main.ed2645de.css",
-    "main.js": "/tab-lluvias-hidalgo/static/js/main.ca4d287c.js",
-    "static/js/453.37feef3a.chunk.js": "/tab-lluvias-hidalgo/static/js/453.37feef3a.chunk.js",
-    "index.html": "/tab-lluvias-hidalgo/index.html",
-    "main.ed2645de.css.map": "/tab-lluvias-hidalgo/static/css/main.ed2645de.css.map",
-    "main.ca4d287c.js.map": "/tab-lluvias-hidalgo/static/js/main.ca4d287c.js.map",
-    "453.37feef3a.chunk.js.map": "/tab-lluvias-hidalgo/static/js/453.37feef3a.chunk.js.map"
+    "main.css": "/segob_dgpc/static/css/main.cb5e9c73.css",
+    "main.js": "/segob_dgpc/static/js/main.a790baff.js",
+    "index.html": "/segob_dgpc/index.html",
+    "main.cb5e9c73.css.map": "/segob_dgpc/static/css/main.cb5e9c73.css.map",
+    "main.a790baff.js.map": "/segob_dgpc/static/js/main.a790baff.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed2645de.css",
-    "static/js/main.ca4d287c.js"
+    "static/css/main.cb5e9c73.css",
+    "static/js/main.a790baff.js"
   ]
 }
