@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/segob_dgpc/static/css/main.cb5e9c73.css",
-    "main.js": "/segob_dgpc/static/js/main.80d73770.js",
+    "main.js": "/segob_dgpc/static/js/main.761ae1c8.js",
     "index.html": "/segob_dgpc/index.html",
     "main.cb5e9c73.css.map": "/segob_dgpc/static/css/main.cb5e9c73.css.map",
-    "main.80d73770.js.map": "/segob_dgpc/static/js/main.80d73770.js.map"
+    "main.761ae1c8.js.map": "/segob_dgpc/static/js/main.761ae1c8.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5e9c73.css",
-    "static/js/main.80d73770.js"
+    "static/js/main.761ae1c8.js"
   ]
 }
